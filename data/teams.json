@@ -1,0 +1,18 @@
+{
+    "Manchester City": {
+      "style": "possession",
+      "strengths": ["short passing", "controlling midfield", "positional play"],
+      "weaknesses": ["vulnerable to counterattacks", "struggles against deep blocks"]
+    },
+    "Liverpool": {
+      "style": "high press",
+      "strengths": ["high intensity pressing", "wing attacks"],
+      "weaknesses": ["spaces behind fullbacks", "struggles against fast counters"]
+    },
+    "Atletico Madrid": {
+      "style": "defensive block",
+      "strengths": ["compact defense", "quick counters"],
+      "weaknesses": ["lack of creativity", "weakness on wide overloads"]
+    }
+  }
+  
